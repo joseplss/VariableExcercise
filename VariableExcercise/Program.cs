@@ -17,7 +17,7 @@ namespace VariableExcercise
 
             Console.WriteLine
                 (
-                $"Let me tell you a bit about my dog, {dogName} \nQuick true or false question though! is she a dachshund? {dogTypeDash} \nAnyway, she is {dogAge} and she loves her toys{dogToy}\nShe's acts a lot like a hunt dog, so be careful if you're coords are {X},{Y} because she will get you! \ninfact, she is {dogAway} from you! "
+                $"Let me tell you a bit about my dog, {dogName} \nQuick true or false question though! is she a dachshund? {dogTypeDash} \nAnyway, she is {dogAge} and she loves her toys{dogToy}\nShe's acts a lot like a hunt dog, so be careful if you're coords are {X},{Y} because she will get you! \ninfact, she is {dogAway} meters from you! "
                 );
 
 
