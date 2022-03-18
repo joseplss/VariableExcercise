@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.csproj.AssemblyReference.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.exe
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.deps.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.runtimeconfig.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.runtimeconfig.dev.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\bin\Debug\netcoreapp3.1\VariableExcercise.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\VariableExcercise\VariableExcercise\VariableExcercise\obj\Debug\netcoreapp3.1\VariableExcercise.genruntimeconfig.cache
